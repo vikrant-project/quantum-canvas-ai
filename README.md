@@ -184,4 +184,4 @@ This project is open-source and free to use for educational purposes.
 
 ---
 
-> ⭐ If you liked this project, please give it a star on Bitbucket!
+> ⭐ If you liked this project, please give it a star on github!
