@@ -69,7 +69,7 @@ quantum-canvas/
 
 ```bash
 # Using Git
-git clone https://soulcrack-spoofs-admin@bitbucket.org/soulcrack-spoofs/quantum-canvas-ai.git
+git clone https://github.com/vikrant-project/quantum-canvas-ai.git
 
 cd canvas-ai
 ```
